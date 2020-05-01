@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trytond" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trytond/trytond/modules/account" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trytond/trytond/modules/account_invoice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trytond/trytond/modules/account_product" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trytond/trytond/modules/account_statement" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trytond/trytond/modules/account_stock_landed_cost" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trytond/trytond/modules/company" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trytond/trytond/modules/country" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trytond/trytond/modules/currency" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trytond/trytond/modules/party" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trytond/trytond/modules/product" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trytond/trytond/modules/stock" vcs="Git" />
+  </component>
+</project>
